@@ -20,7 +20,6 @@ public class HomeWorkLesson3 {
         System.out.println(chekBalance(arr));
         System.out.println("*** Восьмое задание");
         System.out.println(Arrays.toString(moveNumbersArray(-6, arr)));
-
     }
 
     public static void replaceNumberArray() {
