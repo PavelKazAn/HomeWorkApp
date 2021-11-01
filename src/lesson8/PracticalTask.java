@@ -9,6 +9,7 @@ public class PracticalTask extends JFrame {
     private static int stepNumber = 1;
     private static JLabel counterValueView;
 
+
     public static void main(String[] args) {
 
         Font font = new Font("Arial", Font.BOLD, 32);
